@@ -7,5 +7,4 @@ Test Setup      landing_page.Open gother web
 *** Test Cases ***
 TC_web_hotels_001
     [Tags]      TC_web_hotels_001
-    log to console    hello
     DEBUG
